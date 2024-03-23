@@ -94,10 +94,10 @@ export default function InfoCard() {
               </div>
             </div>
             <div className="p-3">
-              <button className="bg-white flex justify-center items-center gap-3 text-[20px] w-[227px] shadow-sm text-black text-center p-3 rounded-[40px]">
+              <a href="/docs/resume-siraj.pdf" download className="bg-white flex justify-center items-center gap-3 text-[20px] w-[227px] shadow-sm text-black text-center p-3 rounded-[40px]">
                 <span>Download CV</span>{" "}
                 <ArrowDownTrayIcon className="w-[20px] h-[20px]" />
-              </button>
+              </a>
             </div>
           </div>
         </div>
