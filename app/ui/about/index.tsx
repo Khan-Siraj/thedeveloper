@@ -5,7 +5,7 @@ export default function About() {
   return (
     <main className="w-full h-full p-[128px] bg-about-pattern bg-center bg-cover">
       <MouseScroll />
-      <div className="flex pl-[128px] pr-[64px] h-[545px]">
+      <div className="flex pl-[128px] pr-[64px] h-[545px] justify-center">
         <div className="flex flex-col w-[880px] h-full mr-[128px]">
         <div
           className="border-[3px] 
