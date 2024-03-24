@@ -5,7 +5,7 @@ import Header from "@/app/ui/header";
 
 export default function Hero() {
   return (
-    <main className="w-full md:h-full bg-BG-1">
+    <main className="w-full bg-BG-1">
       <Header />
       <div className="px-3 md:px-5 py-8 md:py-12 flex flex-col">
       <h1
